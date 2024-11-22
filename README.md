@@ -24,7 +24,7 @@ Clone the project repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/your-repository.git
-
+```
 ## Step 3:  Install Dependencies
 
 There are separate dependencies for the frontend and backend. You need to install both.
