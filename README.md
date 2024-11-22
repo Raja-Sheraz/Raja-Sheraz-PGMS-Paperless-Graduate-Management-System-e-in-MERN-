@@ -73,14 +73,14 @@ npm start
 
 ```
 
-roubleshooting
+## Troubleshooting
 If you face any issues during installation, here are a few things to check:
 
-Ensure that both Node.js and MongoDB are properly installed.
-Double-check your MongoDB configuration, especially if using a local instance or a cloud-based MongoDB service.
-If you encounter any package errors during installation, try using --legacy-peer-deps to bypass peer dependency issues.
-Additional Notes
-For the backend: You can configure the backend to use a cloud database or a local MongoDB instance. Ensure that the MongoDB URI is correctly set in your configuration files.
-For the frontend: You can modify the React app to include additional features or styling as needed, using Material-UI components for a modern UI.
+- Ensure that both Node.js and MongoDB are properly installed.
+- Double-check your MongoDB configuration, especially if using a local instance or a cloud-based MongoDB service.
+- If you encounter any package errors during installation, try using --legacy-peer-deps to bypass peer dependency issues.
 
+##  Additional Notes
+- For the backend: You can configure the backend to use a cloud database or a local MongoDB instance. Ensure that the MongoDB URI is correctly set in your configuration files.
+- For the frontend: You can modify the React app to include additional features or styling as needed, using Material-UI components for a modern UI.
 
