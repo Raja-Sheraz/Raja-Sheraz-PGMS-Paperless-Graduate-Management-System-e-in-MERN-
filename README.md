@@ -23,7 +23,7 @@ Ensure that you have **Node.js** and **MongoDB** installed on your machine.
 Clone the project repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Raja-Sheraz/Raja-Sheraz-PGMS-Paperless-Graduate-Management-System-e-in-MERN-.git
 ```
 ## Step 3:  Install Dependencies
 
